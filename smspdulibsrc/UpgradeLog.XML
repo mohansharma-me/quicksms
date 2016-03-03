@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SMSPDULib">
+</Property><Property Name="Solution File" Value="C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\SMSPDULib.sln">
+</Property><Property Name="Date" Value="Sunday July 27 2014">
+</Property><Property Name="Time" Value="16:27:21 PM">
+</Property></Properties><Event ErrorLevel="0" Project="SMSPDULib" Source="SMSPDULib.csproj" Description="Project file successfully backed up as C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\Backup\SMSPDULib.csproj">
+</Event><Event ErrorLevel="0" Project="SMSPDULib" Source="Exceptions.cs" Description="File successfully backed up as C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\Backup\Exceptions.cs">
+</Event><Event ErrorLevel="0" Project="SMSPDULib" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SMSPDULib" Source="SMS.cs" Description="File successfully backed up as C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\Backup\SMS.cs">
+</Event><Event ErrorLevel="0" Project="SMSPDULib" Source="SMSBase.cs" Description="File successfully backed up as C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\Backup\SMSBase.cs">
+</Event><Event ErrorLevel="0" Project="SMSPDULib" Source="SMSStatusReport.cs" Description="File successfully backed up as C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\Backup\SMSStatusReport.cs">
+</Event><Event ErrorLevel="1" Project="SMSPDULib" Source="SMSPDULib.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="SMSPDULib" Source="SMSPDULib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SMSPDULib" Source="SMSPDULib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SMSPDULib" Source="SMSPDULib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

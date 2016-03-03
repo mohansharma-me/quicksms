@@ -1,0 +1,5 @@
+C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\bin\Debug\SMSPDULib.dll
+C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\bin\Debug\SMSPDULib.pdb
+C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\obj\Debug\SMSPDULib.dll
+C:\Users\Mohan\Downloads\Compressed\smspdulibsrc\obj\Debug\SMSPDULib.pdb
