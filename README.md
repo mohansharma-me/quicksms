@@ -8,6 +8,8 @@ It provides proper contacts management, import/export details, delivery reports 
 
 I uploaded source code at http://github.com/mohansharma-me/quicksms
 
+Portfolio link : http://mohansharma.me/portfolio/software-development/quicksms
+
 Technologies : C# .NET, SQLite, Modem Programming
 
 Screenshots:
